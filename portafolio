@@ -1,0 +1,195 @@
+						<div class="row">
+							<!-- #options -->
+			                <div id="options" class="clearfix">
+			                    <ul id="filters" class="option-set clearfix" data-option-key="filter">
+			                        <li><a href="http://html.metrothemes.me/lucas/#filter" data-option-value="*" class="selected">all works</a></li>
+			                        <li><a href="http://html.metrothemes.me/lucas/#filter" data-option-value=".webdesign">webdesign</a></li>
+			                        <li><a href="http://html.metrothemes.me/lucas/#filter" data-option-value=".uidesign">uidesign</a></li>
+			                        <li><a href="http://html.metrothemes.me/lucas/#filter" data-option-value=".branding">branding</a></li>     
+			                        <li><a href="http://html.metrothemes.me/lucas/#filter" data-option-value=".logodesign">logodesign</a></li>
+			                        <li><a href="http://html.metrothemes.me/lucas/#filter" data-option-value=".illustration">illustration</a></li>
+			                    </ul>
+			                </div> 
+			                <!-- #options end-->
+			                <!-- portfolio items -->	
+			                <div id="portfolio" class="clearfix isotope" style="position: relative; overflow: hidden; height: 1204px;"> 
+											
+								<div class="block webdesign isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/1.jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>
+								<div class="block uidesign isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(260px, 0px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/2(1).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>
+								<div class="block branding isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(520px, 0px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/3.jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>		
+
+								<div class="block logodesign isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 301px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/1(1).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>	
+
+								<div class="block illustration isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(260px, 301px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/2(2).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>
+
+								<div class="block photography isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(520px, 301px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/3(1).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>	
+
+								<div class="block webdesign isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 602px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/1(2).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>
+
+								<div class="block uidesign isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(260px, 602px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/2(3).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>
+
+								<div class="block branding isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(520px, 602px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/3(2).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>														
+								<div class="block logodesign isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 903px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/1(3).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>	
+
+								<div class="block illustration isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(260px, 903px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/2(4).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>
+
+								<div class="block photography isotope-item" style="position: absolute; left: 0px; top: 0px; transform: translate3d(520px, 903px, 0px);">
+									<div class="view view-first">
+										<div class="tringle"></div>
+										<img src="./Lucas - Onepage Personal Resume_Portfolio Template_files/3(3).jpg" alt="">
+										<div class="mask">
+											<a class="info" href="http://html.metrothemes.me/lucas/img/big/1.jpg" rel="prettyPhoto"></a>
+											<a class="link" href="http://html.metrothemes.me/lucas/#"></a>
+										</div>
+									</div>
+									<div class="des">
+		                                <h4>Some Title</h4>
+		                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+		                            </div>
+								</div>							
+							</div>
+							<!-- /portfolio items end-->
+						</div>
